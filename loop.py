@@ -8,3 +8,5 @@ b = 30
 c = a+b
 
 print ('The value of c is :', c)
+
+print ("My name is Vikram")
